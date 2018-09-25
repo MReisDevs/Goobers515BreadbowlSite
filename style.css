@@ -45,5 +45,6 @@ body{
 	background-color: black;
 }
 .breadbowlImage {
-	object-fit: cover;
+    max-width: 100%;
+    height: auto;
 }
